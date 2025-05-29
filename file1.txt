@@ -1,6 +1,7 @@
 
 master:
 hello world
+changing in dev03. to check merge conflict 
 --------------------
 feature2:
 checking git merge functionality
