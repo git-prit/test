@@ -1,0 +1,3 @@
+checking git merge functionality
+added in feature1 branch!
+
